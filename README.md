@@ -19,7 +19,7 @@ I am a software developer and a Computer Science student at the University of Wa
 
 #### 👀 My Interests
 
-I love working on projects that involve a variety of concepts and tech stacks. More recently, I have been working on building Full stack web applications using React.
+I love working on projects that involve a variety of concepts and tech stacks. I’m interested in developing software to solve real-world problems and have a knack for coming up with creative, yet practical solutions. Also, I love a good aesthetic with clean design and documentation, and try to incorporate it into all of my projects.
 
 #### 📫 How to reach me
 - [j2chawla@uwaterloo.ca](mailto:j2chawla@uwaterloo.ca)
