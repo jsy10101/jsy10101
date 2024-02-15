@@ -22,5 +22,5 @@ I am a software developer and a Computer Engineering student at the University o
 I love working on projects that involve a variety of concepts and tech stacks. More recently, I have been working on building Full stack mobile applications using React-Native and Expo CLI.
 
 #### 📫 How to reach me
-[Email](j2chawla@uwaterloo.ca)
-[LinkedIn](https://www.linked.com/in/jaskiratchawla)
+- [j2chawla@uwaterloo.ca](mailto:j2chawla@uwaterloo.ca)
+- [linked.com/in/jaskiratchawla](https://www.linkedin.com/in/jaskiratchawla)
