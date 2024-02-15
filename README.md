@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a software developer and a Computer Engineering student at the University of Waterloo.
+I am a software developer and a Computer Science student at the University of Waterloo.
 
 #### 👀 My Interests
 
