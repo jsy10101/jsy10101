@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hey! I'm Jaskirat
 
 <!--
 **jsy10101/jsy10101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a software developer and a Computer Engineering student at the University of Waterloo.
+
+#### 👀 My Interests
+
+I love working on projects that involve a variety of concepts and tech stacks. More recently, I have been working on building Full stack mobile applications using React-Native and Expo CLI.
+
+#### 📫 How to reach me
+[Email](j2chawla@uwaterloo.ca)
+[LinkedIn](https://www.linked.com/in/jaskiratchawla)
