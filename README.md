@@ -1,5 +1,4 @@
 ### 👋 Hey! I'm Jaskirat
----
 <!--
 **jsy10101/jsy10101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
