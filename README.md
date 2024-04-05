@@ -1,5 +1,5 @@
 ### 👋 Hey! I'm Jaskirat
-
+---
 <!--
 **jsy10101/jsy10101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://komarev.com/ghpvc/?username=jsy10101)
 
 I am a software developer and a Computer Science student at the University of Waterloo.
 
