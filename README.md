@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=jsy10101)
 
-I am a software developer and a Computer Science student at the University of Waterloo.
+I am a software developer and a Computer Science graduate from the University of Waterloo.
 
 #### 👀 My Interests
 
-I love working on projects that involve a variety of concepts and tech stacks. I’m interested in developing software to solve real-world problems and have a knack for coming up with creative, yet practical solutions. Also, I love a good aesthetic with clean design and documentation, and try to incorporate it into all of my projects.
+I am passionate about full stack development, distributed systems, and artificial intelligence, especially designing scalable, high-performance software that solves complex real-world problems. I enjoy working on projects that span diverse technologies and concepts, always aiming to craft creative yet practical solutions. Additionally, I value clean design and thorough documentation, striving to incorporate both aesthetics and clarity into every project I undertake.
 
 #### 📫 How to reach me
 - [j2chawla@uwaterloo.ca](mailto:j2chawla@uwaterloo.ca)
