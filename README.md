@@ -25,3 +25,6 @@ I am passionate about full stack development, distributed systems, and artificia
 #### 📫 How to reach me
 - [j2chawla@uwaterloo.ca](mailto:j2chawla@uwaterloo.ca)
 - [linked.com/in/jaskiratchawla](https://www.linkedin.com/in/jaskiratchawla)
+
+#### 🔐 Policies
+- [Lead Gen CRM Privacy Policy](./lead-gen-privacy-policy.md)
