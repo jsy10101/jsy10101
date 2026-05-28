@@ -78,5 +78,5 @@ We may update this Privacy Policy from time to time. Updates will be posted on t
 
 If you have questions or requests regarding this Privacy Policy, contact:
 
-- **Email:** [j2chawla@uwaterloo.ca](mailto:j2chawla@uwaterloo.ca)
+- **Email:** [jaskiratchawla580@gmail.com](mailto:jaskiratchawla580@gmail.com)
 - **GitHub:** [https://github.com/jsy10101](https://github.com/jsy10101)
